@@ -17,8 +17,10 @@ class LogInTemp:
 
 
 
-if __name == "main":
+if __name__ == "main":
     login = LogInTemp()
     login.log()
     login2 = LogInTemp()
     login2.log()
+
+    #23
